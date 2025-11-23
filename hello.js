@@ -9,3 +9,4 @@ console.log("Hello, GitHub!");
 
 // I am back to coding say Hello World
 // Welcome to programming
+// welcome to javascript
