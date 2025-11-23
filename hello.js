@@ -7,4 +7,4 @@ console.log("Hello, GitHub!");
 // CODE
 // CODE
 
-// I am back to coding say welcome 
+// I am back to coding say Hello World
