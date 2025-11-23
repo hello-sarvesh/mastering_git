@@ -8,3 +8,4 @@ console.log("Hello, GitHub!");
 // CODE
 
 // I am back to coding say Hello World
+// welcome to javascript
